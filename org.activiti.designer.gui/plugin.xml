@@ -388,6 +388,12 @@
                id="org.activiti.designer.mainConfigTab.compensationActivityRef"
                tab="org.activiti.designer.mainConfigTab">
          </propertySection>
+         <propertySection
+                 class="org.activiti.designer.property.PropertyTerminateEndEventSection"
+                 filter="org.activiti.designer.property.PropertyTerminateEndEventFilter"
+                 id="org.activiti.designer.mainConfigTab.terminateendevent"
+                 tab="org.activiti.designer.mainConfigTab">
+         </propertySection>
          <!-- <propertySection
                class="org.activiti.designer.property.PropertyEventListenersSection"
                filter="org.activiti.designer.property.PropertyEventListenersFilter"
